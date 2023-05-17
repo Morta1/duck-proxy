@@ -22,3 +22,10 @@ Using `next.js` file based api under `/app/api`
 `POST /api/?q=` - search a term in ddg + saves your search term in `/backend/db/terms.json`
 
 `GET /api/terms` - get all search terms in the `terms.json` file
+
+## ETC
+
+Libraries used:
+* Material UI 
+* react-redux (@reduxjs/toolkit)
+* react-highlight-words
